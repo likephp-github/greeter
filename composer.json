@@ -1,0 +1,19 @@
+{
+    "name": "hummingfood/greetr",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hummingfood\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MattTu",
+            "email": "mat@hummingfood.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
